@@ -463,4 +463,16 @@
         "name": "Lisa Phạm Channel",
         "org": "Việt Tân (Nghi ngờ)"
     }
+    {
+        "youtubeid": "@CSQG",
+        "type": "channel",
+        "name": "Tổng Hội Cảnh Sát Quốc Gia VNCH",
+        "org": "Việt Nam Cộng Hoà"
+    }
+    {
+        "youtubeid": "@tranhamy2k9vietnamconghoa",
+        "type": "channel",
+        "name": "Trần Hà My 2K9 Việt Nam Cộng Hòa 🇺🇸",
+        "org": "trẻ trâu muốn kiếm fame"
+    }
 ]
